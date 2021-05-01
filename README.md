@@ -45,7 +45,7 @@ _Tampilan hasilnya seperti berikut :_
 
 
 5. Pembuatan fungsi dan cara memanggilnya
-_contoh berikut adalah melalui body onload, memanggil fungsi  dengan nama 'pesan' yang akan menghasilkan return alert._
++_contoh berikut adalah melalui body onload, memanggil fungsi  dengan nama 'pesan' yang akan menghasilkan return alert._
 
 ![11](https://user-images.githubusercontent.com/56189248/116775415-21da5700-aa8d-11eb-9665-fd50d5fb7fcc.png)
 
@@ -77,14 +77,14 @@ _Tampilan hasilnya seperti berikut :_
 
 ![19](https://user-images.githubusercontent.com/56189248/116775425-24d54780-aa8d-11eb-8996-a7128ef5c34f.png)
 
-
-7. Perintah seleksi dengan kondisi menggunakan switch
-
 ![20](https://user-images.githubusercontent.com/56189248/116775426-24d54780-aa8d-11eb-9f0f-c854c88d7281.png)
 
-_Tampilan hasilnya seperti berikut :_
+
+8. Perintah seleksi dengan kondisi menggunakan switch
 
 ![21](https://user-images.githubusercontent.com/56189248/116775427-256dde00-aa8d-11eb-8d84-ddf85b645ce1.png)
+
+_Tampilan hasilnya seperti berikut :_
 
 ![22](https://user-images.githubusercontent.com/56189248/116775428-26067480-aa8d-11eb-8eb9-6238a42c6f69.png)
 
@@ -97,50 +97,54 @@ _Tampilan hasilnya seperti berikut :_
 ![26](https://user-images.githubusercontent.com/56189248/116775433-2737a180-aa8d-11eb-9f60-e1d970714d96.png)
 
 
-8. Cara pembuatan form input
-
 ![27](https://user-images.githubusercontent.com/56189248/116775434-27d03800-aa8d-11eb-865a-4f767bd1c91d.png)
 
-_Tampilan hasilnya seperti berikut :_
+
+
+9. Cara pembuatan form input
 
 ![28](https://user-images.githubusercontent.com/56189248/116775435-27d03800-aa8d-11eb-80be-4a1bad7fc7cb.png)
 
+_Tampilan hasilnya seperti berikut :_
+
 ![29](https://user-images.githubusercontent.com/56189248/116775436-2868ce80-aa8d-11eb-913c-fc0bfc6cc01a.png)
-
-
-9. Cara pembuatan form button
 
 ![30](https://user-images.githubusercontent.com/56189248/116775437-2868ce80-aa8d-11eb-91a6-fc8417c86007.png)
 
-_Tampilan hasilnya seperti berikut :_
+
+
+10. Cara pembuatan form button
 
 ![31](https://user-images.githubusercontent.com/56189248/116775438-29016500-aa8d-11eb-976d-29014c125a39.png)
+
+_Tampilan hasilnya seperti berikut :_
 
 ![32](https://user-images.githubusercontent.com/56189248/116775439-2999fb80-aa8d-11eb-8268-f1e91a117b22.png)
 
 ![33](https://user-images.githubusercontent.com/56189248/116775440-2999fb80-aa8d-11eb-98fc-839cc47c958e.png)
 
-
-10. Contoh cara membuat dan menggunakan checkbox dengan perhitungan otomatis
-
 ![34](https://user-images.githubusercontent.com/56189248/116775442-2a329200-aa8d-11eb-8e96-efe4b16e48d2.png)
 
-_Tampilan hasilnya seperti berikut :_
+
+
+11. Contoh cara membuat dan menggunakan checkbox dengan perhitungan otomatis
 
 ![35](https://user-images.githubusercontent.com/56189248/116775443-2acb2880-aa8d-11eb-85f0-4efca02c1086.png)
 
+_Tampilan hasilnya seperti berikut :_
+
 ![36](https://user-images.githubusercontent.com/56189248/116775444-2acb2880-aa8d-11eb-9dbc-52b1e83f9ea1.png)
-
-
-11. Contoh membuat validasi pada isian form
-*_Validasi jika input pada form belum diisi_
-*_Validasi jika input pada form bukan angka atau bilangan_
 
 ![37](https://user-images.githubusercontent.com/56189248/116775398-1a1ab280-aa8d-11eb-8751-823527fc9787.png)
 
-_Tampilan hasilnya seperti berikut :_
+
+12. Contoh membuat validasi pada isian form
+*_Validasi jika input pada form belum diisi_
+*_Validasi jika input pada form bukan angka atau bilangan_
 
 ![38](https://user-images.githubusercontent.com/56189248/116775399-1b4bdf80-aa8d-11eb-8d37-f8840dece764.png)
+
+_Tampilan hasilnya seperti berikut :_
 
 ![39](https://user-images.githubusercontent.com/56189248/116775400-1be47600-aa8d-11eb-9d30-ccf9d40c3bc2.png)
 
@@ -148,8 +152,10 @@ _Tampilan hasilnya seperti berikut :_
 
 ![41](https://user-images.githubusercontent.com/56189248/116775402-1c7d0c80-aa8d-11eb-8291-d2c59f1ada98.png)
 
+![42](https://user-images.githubusercontent.com/56189248/116775403-1d15a300-aa8d-11eb-8fc3-14ffb5de4c82.png)
+
+
 
 Hasil Validasi file dokumen HTML pada web https://validator.w3.org/
 
-![42](https://user-images.githubusercontent.com/56189248/116775403-1d15a300-aa8d-11eb-8fc3-14ffb5de4c82.png)
 ![43](https://user-images.githubusercontent.com/56189248/116775404-1dae3980-aa8d-11eb-8b45-4a9b0a9dde30.png)
